@@ -17,22 +17,22 @@ Each character i in the number is an integer where 0<=i<=9
 
 Print a single line with the largest number that can be made by changing no more than  digits; if this is not possible, print -1.
 
-** Sample Input 0 **
+## Sample Input 0 
 
 4 1
 3943
-** Sample Output 0 **
+## Sample Output 0 
 
 3993
 
-** Sample Input 1 **
+## Sample Input 1 
+6 3 
 
-6 3
 092282
-** Sample Output 1 **
+## Sample Output 1 
 
 992299
-** Sample Input 2 **
+## Sample Input 2 
 
 4 1
 0011
